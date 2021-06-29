@@ -44,3 +44,5 @@ $ sudo apt-get install ros-melodic-ros-controllers ros-melodic-ros-control
 $ catkin_make
 
 $ roslaunch robot_arm_pkg check_motors.launch
+
+![arm](https://user-images.githubusercontent.com/86454996/123722668-76cdfa00-d891-11eb-840d-9d12b99555e2.PNG)
